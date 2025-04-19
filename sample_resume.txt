@@ -1,0 +1,35 @@
+ROSHINI PARVATHI
+9701519929 | parvathiroshini0905@gmail.com | www.linkedin.com/in/parvathi-roshini-5122ab237/| Hyderabad
+SUMMARY
+Recent Computer Science and Engineering (AI & ML) graduate with skills in both Frontend and Backend web development. Experienced in using HTML, CSS, JavaScript, and ReactJS for frontend, and Node.js, Express.js for Backend development. Skilled in MongoDB and MySQL databases. Knowledgeable in AWS (basics) and version control with Git. Passionate about creating user-friendly web applications and seeking a Full Stack Web Developer role to contribute to meaningful projects.
+EDUCATION
+ SKILLS	
+Programming Languages: Python, Java Web Technologies: HTML,CSS,JS Backend Dev: Node.js, Express.js Frontend Dev: ReactJS, Bootstrap Databases: MongoDB,MYSQL
+PROJECTS	
+Monitoring Earth’s Vital Signs: Automated Satellite Image Classification for Environmental Assessment
+2024
+Overview: Developed cutting-edge system using CNNs to automate satellite image classification, enhancing environmental assessment for effective conservation and policy decision-making.
+Technologies Used: Machine Learning (CNN), Python.
+Deep Learning Approach for Categorizing Female Face Shapes using HOORS Dataset	2023
+Overview: Developed a deep learning model using CNN and TensorFlow to Categorize Female Face Shapes in the HOORS Dataset, demonstrating proficiency in computer vision and image classification.
+Technologies Used: Python.
+Student Management Portal | GitHub | Hosted Link	2024
+Overview: Built a web app for managing student records, offering features to add, view, edit, and delete student details, along with a dashboard for key statistics.
+Technologies Used: React, React Router, Context API/Redux Toolkit, HTML, CSS
+To-Do List API| GitHub	2024
+Overview: Developed a RESTful API to manage tasks in a to-do list app, supporting create, read, update, and delete operations with database integration and error handling.
+Technologies Used: Node.js, Express.js, MongoDB Atlas, Render
+ACHIEVEMENTS	
+Presented a paper on “The role of Extended Reality (XR) in the Education System” in the 2nd Online International Conference on (ICCIASH-2021)
+Attended a Two-Day National Level Workshop on “Emerging Trends in Edge Artificial Intelligence & Machine Learning Applications.”
+CERTIFICATIONS	
+SQL Course - Udemy
+Python Programming - Great Learning
+CSS Introduction – IBM Skills Build
+Front End Development - Innomatics Research Labs
+
+SOFT SKILLS	
+Communication		Problem-Solving
+Adaptability		Curiosity to Learn
+Team work		Time Management
+Collaboration		Attention to Detail
